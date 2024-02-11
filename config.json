@@ -1,11 +1,11 @@
 {
-  "vk_token": "4ce92447ea87e9da27bfbee9f0560b2c79a8fc9fd6d1456660fc104bddb69dd625c755ccd4c9d90a68877",
-  "tg_token": "656043683:AAFWVj20fIYr3ZA-77WnxjiXVsncL-cJinc",
-  "tg_user": 109633160,
+  "vk_token": "",
+  "tg_token": "",
+  "tg_user": ,
   "keyboard": [
     ["/online", "/friends"],
     ["/friendson", "/history"]
   ],
-  "timezone": "Asia/Irkutsk"
+  "timezone": ""
 }
 
